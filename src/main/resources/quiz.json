@@ -1,0 +1,90 @@
+[
+  {
+    "answerkey": 4,
+    "Option 1": "Regression Testing",
+    "Option 2": "Sanity Testing",
+    "question": "Which is not part of system testing?",
+    "Option 3": "Load Testing",
+    "Option 4": "Unit Testing"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "Security testing",
+    "option 4": "Usability testing",
+    "question": "Which testing type is focused on finding defects related to security vulnerabilities?",
+    "option 1": "Functional testing",
+    "option 2": "Performance testing"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "Testing boundary values only",
+    "option 4": "Ignoring testing completely",
+    "question": "What is equivalence partitioning in testing?",
+    "option 1": "Dividing the input domain into classes of equivalent data",
+    "option 2": "Testing each combination of input values"
+  },
+  {
+    "answerKey": 4,
+    "option 3": "An error in the software design",
+    "option 4": "A flaw that might prevent the software from functioning as intended",
+    "question": "What is a defect in software testing?",
+    "option 1": "A mistake in the requirements specification",
+    "option 2": "A deviation from the expected result"
+  },
+  {
+    "answerKey": 2,
+    "option 3": "To assess the system's performance under stress",
+    "option 4": "To test individual functions",
+    "question": "What is the primary goal of usability testing?",
+    "option 1": "To find security vulnerabilities",
+    "option 2": "To evaluate the user interface and overall user experience"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "To track the relationship between requirements and test cases",
+    "option 4": "To validate user requirements",
+    "question": "What is the purpose of a traceability matrix in testing?",
+    "option 1": "To document the test plan",
+    "option 2": "To manage project risks"
+  },
+  {
+    "answerKey": 1,
+    "option 3": "Security testing",
+    "option 4": "Functional testing",
+    "question": "Which testing type focuses on assessing the system's ability to recover from failures?",
+    "option 1": "Recovery testing",
+    "option 2": "Performance testing"
+  },
+  {
+    "answerKey": 2,
+    "option 3": "To execute a set of predetermined test cases",
+    "option 4": "To automate the testing process",
+    "question": "What is the purpose of exploratory testing?",
+    "option 1": "To follow a predefined test plan",
+    "option 2": "To identify defects through simultaneous learning, test design, and test execution"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "To measure the extent to which the code is tested by test cases",
+    "option 4": "To test individual functions",
+    "question": "What is the significance of code coverage analysis in testing?",
+    "option 1": "To analyze the code for security vulnerabilities",
+    "option 2": "To assess the system's performance"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "To assess the user interface and overall user experience",
+    "option 4": "To test individual functions",
+    "question": "What is the purpose of usability testing?",
+    "option 1": "To evaluate the system's ability to recover from failures",
+    "option 2": "To assess the system's performance under stress"
+  },
+  {
+    "answerKey": 3,
+    "option 3": "To ensure that new code changes do not negatively impact existing functionality",
+    "option 4": "To find security vulnerabilities",
+    "question": "What is the purpose of regression testing?",
+    "option 1": "To test individual functions",
+    "option 2": "To assess the system's performance under stress"
+  }
+]
