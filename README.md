@@ -1,6 +1,6 @@
 # Quiz App Using Java
 ## Project Summary:
-This project is a simple Java Quiz App. The quiz includes both admin functionality to add questions to the quiz bank and student functionality to take a random quiz in terminal.
+This project is a simple Java Quiz App. The quiz includes both admin functionality to add questions to the quiz bank stored in a JSON file and student functionality to take a random quiz in terminal.
 
 ## Prerequisites:
 - Java
@@ -14,6 +14,10 @@ This project is a simple Java Quiz App. The quiz includes both admin functionali
 
   
 ## Features of this Quiz App
+#### Login System
+- The system supports two types of users: admin and student.
+- Admin users can add new MCQs to the quiz bank stored in quiz.json.
+- Student users can take a quiz generated from the questions in quiz.json.
 #### Admin
 - Login as Admin
 - Create MCQ Question
